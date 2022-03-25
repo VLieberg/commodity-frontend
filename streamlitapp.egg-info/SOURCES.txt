@@ -1,0 +1,8 @@
+MANIFEST.in
+requirements.txt
+setup.py
+streamlitapp.egg-info/PKG-INFO
+streamlitapp.egg-info/SOURCES.txt
+streamlitapp.egg-info/dependency_links.txt
+streamlitapp.egg-info/requires.txt
+streamlitapp.egg-info/top_level.txt
