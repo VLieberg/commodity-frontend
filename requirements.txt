@@ -1,5 +1,4 @@
 streamlit
-re
 requests
 plotly
 pandas
