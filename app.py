@@ -1,9 +1,9 @@
-#from re import S
+from re import S
 import streamlit as st
 import requests
 import plotly.graph_objects as go
 import pandas as pd
-#from PIL import Image
+from PIL import Image
 import datetime
 
 
