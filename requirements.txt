@@ -1,5 +1,7 @@
 streamlit
+re
 requests
-pandas
-numpy
 plotly
+pandas
+PIL
+datetime
